@@ -1,1 +1,1 @@
-# Simple-JAVA-
+# Simple-JAVA-ALL Practical
